@@ -1,4 +1,4 @@
-# ProSearchAI - AI-Powered Product Search Tool
+# ProSearchAI - AI-Powered Product Search Tool - [DEMO 🎬](https://www.youtube.com/watch?v=tkP5R4e5kEU)
 
 **ProSearchAI** is an advanced, semantic search tool that leverages AI to understand user intent and context, providing intelligent product recommendations beyond simple keyword-based matching. Powered by a combination of Google’s Generative AI, vector embeddings, and conversational memory, ProSearchAI makes product discovery intuitive and efficient.
 
